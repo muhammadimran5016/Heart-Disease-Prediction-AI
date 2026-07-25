@@ -6,11 +6,13 @@ Heart Disease Prediction AI is an AI-powered Heart Disease Prediction System dev
 
 This project demonstrates the practical application of Artificial Intelligence in healthcare by combining predictive analytics with an intuitive web interface.
 
+
+
 ## 🚀 Live Demo
 
 🌐 Streamlit App
 
-*(Link will be added here once the app is deployed live)*
+https://heart-disease-prediction-ai-8uvtwgr5vy2u3hzxshzbjd.streamlit.app/
 
 ## ✨ Features
 
