@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction AI – Heart Disease Prediction System
+# ❤️ HeartCare AI – Heart Disease Prediction System
 
 ## 🩺 Overview
 
